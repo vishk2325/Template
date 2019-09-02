@@ -1,0 +1,178 @@
+*{
+	margin:0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+#header{
+	width: 75%;
+	margin: 0 auto;
+	/*background: #ccc;*/
+	padding: 10px;
+
+}
+#menu{
+	width: 700px;
+}
+.fL{
+	float: left;
+}
+.fR{
+	float: right;
+}
+.menuItem{
+	float: left;
+	padding: 10px;
+}
+.pContent1{
+	padding: 100px;
+    text-align: center;
+    color: #fff;
+   /* background: #ccc;*/
+    
+}
+#para1{
+	background:url(G:/Template/images/bcgrd1.jpg);
+	background-size: cover;
+	width: 1241px;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.button {
+	  background-color: #008CBA; /*#4CAF50;*/ /* Green */
+	  border: none;
+	  color: white;
+	  padding: 08px 18px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 12px;
+}
+.infobutton{
+	  background-color: #008CBA; /*#4CAF50;*/ /* Green */
+	  border: none;
+	  margin-left: 40%;
+	  margin-bottom: 5px;
+	  color: white;
+	  padding: 8px 18px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 12px;	
+}
+.fServices{
+    margin:0px;
+    padding: 35px;
+    text-align: center;
+    /*background-color: lime;*/
+    
+}
+.fServType{
+	background-color: lime;
+	margin-left: 50px;
+	margin-right: 50px;
+	
+}
+#servType{
+	background-color: #72C8A2;
+}
+.serviceItem1{
+
+    margin: 1px;
+    float: left;
+    padding:30px;
+    background-color: #72C8A2;
+    text-align: center;
+    width: 321px;
+}
+.serviceItem{
+    margin: 1px;
+    float: left;
+    padding:30px;
+    background-color: #72C8A2;
+    text-align: center;
+    width: 300px;
+}
+.serviceItem4{
+    margin: 1px;
+    float: left;
+    padding:30px;
+    background-color: #72C8A2;
+    text-align: center;
+    width: 320px;
+}
+.about{
+	margin-left: 50px;
+}
+#aboutinfo{
+	margin-left:  90px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	float: left;
+	width: 600px;
+	padding-left: 10px;
+	background-color: #fff;
+}
+#advantages{
+	margin: 40px;
+	float: left;
+	width: 350px;
+}
+#points li{
+	display: block;
+	list-style-type: none;
+	background: #ccc;
+	padding: 5px;
+	margin: 1px;
+}
+
+#awards{
+	width: 1241px;
+	padding: 40px;
+	float: left;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	background-color: lime;
+	margin-left: 50px;
+	background:url(G:/Template/images/keyboardNew.jpg);
+	background-size: cover;
+	text-align: center;
+	height: 150px;
+}
+#smile{
+	float: left;
+	margin: 20px;
+	padding-left: 100px;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+
+#check{
+	float: left;
+	margin: 20px;
+	padding-left: 50px;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+#trophy{
+	float: left;
+	margin: 20px;
+	padding-left: 50px;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+#location{
+	float: left;
+	margin: 20px;
+	padding-left: 40px;
+	padding-right: 100px;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+#testimonials{
+	padding: 30px;
+	float: left;	
+	text-align: center;
+}
+.clear{
+	clear: both;
+}
